@@ -1,4 +1,4 @@
-import styles from '../styles/globals.css'
+import styles from '../styles/globals.scss'
 import Header from '../components/header'
 import Footer from '../components/footer'
 function MyApp({ Component, pageProps }) {

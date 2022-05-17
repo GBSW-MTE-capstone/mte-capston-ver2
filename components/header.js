@@ -1,5 +1,5 @@
 import React from "react";
-// import "../styles/header.css"
+// import style from "../styles/globals.scss"
 import { WbSunny, Menu, Search } from '@mui/icons-material';
 export const Header = () => {
     return(
@@ -12,8 +12,8 @@ export const Header = () => {
                     <li className="nowTime">12:11:52</li>
                     <li> <WbSunny className="icon" /> </li>
                     {/* test router link */}
-                    <li><Link to="/"> go home </Link></li>
-                    <li><Link to="/board"> go board </Link></li>
+                    <li><a href="/home"> go home </a></li>
+                    <li><a href="/board"> go board </a></li>
                 </ul>
             </div>
             <div>
