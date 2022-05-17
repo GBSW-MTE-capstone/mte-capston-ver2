@@ -1,7 +1,7 @@
 import react from "react";
 function index(){
     return(
-        <h1>hummm</h1>
+        <h1>board</h1>
     )
 }
 export default index

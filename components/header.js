@@ -1,19 +1,20 @@
 import React from "react";
-// import style from "../styles/globals.scss"
+import Link from 'next/link'
+import "../styles/header.module.scss"
 import { WbSunny, Menu, Search } from '@mui/icons-material';
 export const Header = () => {
     return(
         <div className="header">
             <div className="left">
-                <ul>
+                <ul className="list">
                     <li className="localName">Useong</li>
                     <li className="nowTab">news</li>
                     <li className="nowDate">화요일</li>
                     <li className="nowTime">12:11:52</li>
                     <li> <WbSunny className="icon" /> </li>
                     {/* test router link */}
-                    <li><a href="/home"> go home </a></li>
-                    <li><a href="/board"> go board </a></li>
+                    <li><Link href="/home"> go home </Link></li>
+                    <li><Link href="/board"> go board </Link></li>
                 </ul>
             </div>
             <div>
