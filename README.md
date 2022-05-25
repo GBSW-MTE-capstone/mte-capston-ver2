@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##    [   FBI Wea_I_Beijing_Tiananmen   ]
 
-## Getting Started
+## " 마 막들어오지 마라! "
 
-First, run the development server:
+여기는 경소고 캡스톤팀 뭉탱이 입니당
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 프론트 뚝딱중입니당
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`git clone https://github.com/GBSW-MTE-capstone/mte-capstone-ver2`
+이렇게 cmd 에서 클론하고
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+`cd mte-capstone-ver2`
+폴더로 들어가서 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+`npm i`
+로 node module 을 다운로드 한후 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+`yarn`
+모듈 다운 하시고 
 
-## Learn More
+`yarn dev`
+로 실행시키셈요.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+더러운 코드로 인한 안구피해는 책임지지 않습니다.
